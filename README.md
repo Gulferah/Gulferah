@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **E-Commerce Data Analysis Project**
 
-- 🌱 I’m currently learning **SQL, Python, Tableau, Google Sheets**
+- 🌱 I’m currently learning **SQL, Python, Tableau, Google Sheets, Statistics**
 
-- 👯 I’m looking to collaborate on **Data Analysis and Data Science**
+- 👯 I’m looking to collaborate on **Data Analysis**
 
 - 💬 Ask me about **Data Analyse**
 
