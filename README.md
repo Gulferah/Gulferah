@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gyulfera" target="blank"><img src="https://img.shields.io/twitter/follow/gyulfera?logo=twitter&style=for-the-badge" alt="gyulfera" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce Data Analysis Project**
+- 🔭 I’m currently working on **👔 Project: Capstone (AutoScout)**
 
 - 🌱 I’m currently learning **SQL, Python, Tableau, Google Sheets, Statistics**
 
